@@ -3,4 +3,5 @@
     <string name="version">Version</string>
     <string name="muter">time mute</string>
     <string name="exit">EXIT</string>
+    <string name="back">BACK</string>
 </resources>
