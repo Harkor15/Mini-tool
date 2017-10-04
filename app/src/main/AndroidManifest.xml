@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Muter"></activity>
+        <activity android:name=".Muter" />
+        <activity android:name=".Unmuter"></activity>
     </application>
 
 </manifest>

@@ -4,4 +4,7 @@
     <string name="muter">time mute</string>
     <string name="exit">EXIT</string>
     <string name="back">BACK</string>
+    <string name="mute_time">Time of mute</string>
+    <string name="Time_unmute">Time of unmute</string>
+    <string name="save">SAVE</string>
 </resources>
