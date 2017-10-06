@@ -7,4 +7,5 @@
     <string name="mute_time">Time of mute</string>
     <string name="Time_unmute">Time of unmute</string>
     <string name="save">SAVE</string>
+    <string name="notSetMuter">not set</string>
 </resources>
